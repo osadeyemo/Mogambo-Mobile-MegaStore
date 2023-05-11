@@ -1,1 +1,1 @@
-# Mogambo-Mobile-MegaStore
+# Mogambo-Mobile-mega-store
